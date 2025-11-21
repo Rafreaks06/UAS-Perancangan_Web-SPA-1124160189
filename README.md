@@ -36,7 +36,7 @@ Aplikasi ini berjalan sepenuhnya di browser tanpa reload halaman, menggunakan HT
 ## 🚀 Cara Menjalankan
 
 1. **Clone atau download proyek**
-2. **Buka file `index.html` di browser**
+2. **Buka file `payment.html` di browser**
 
 Tidak membutuhkan server atau instalasi tambahan.
 
