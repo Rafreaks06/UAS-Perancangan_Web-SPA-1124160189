@@ -41,6 +41,11 @@ Aplikasi ini berjalan sepenuhnya di browser tanpa reload halaman, menggunakan HT
 Tidak membutuhkan server atau instalasi tambahan.
 
 ---
+##🐳 Docker Hub Repository
+
+- Proyek ini juga dipublikasikan sebagai container pada Docker Hub:
+👉 https://hub.docker.com/repository/docker/rafreaks06/payment-portal/general
+
 
 ## 🔧 Pengembangan & Kontribusi
 
